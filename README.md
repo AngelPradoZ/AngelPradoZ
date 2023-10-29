@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, my name is Angel Prado
 #### I am a QA Software tester
 I'm a Costa Rican girl who loves adventure and has a passion for technology.
